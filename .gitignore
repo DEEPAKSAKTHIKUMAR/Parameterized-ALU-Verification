@@ -1,0 +1,12 @@
+# Simulation executables
+sim/alu_sim
+
+# Temporary files
+*.o
+*.out
+
+# Editor files
+.vscode/
+
+# OS files
+.DS_Store
